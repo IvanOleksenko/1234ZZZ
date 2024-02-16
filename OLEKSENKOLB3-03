@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My life</title>
+</head>
+<body>
+    <IMG SRC="1.jpg" ALT="" height="200" width="300" border="5"> 
+<p>Це моя улюблена фотка.</p>
+    <IMG SRC="2.jpg" ALT="" height="200" width="300" border="5">
+        <p>Полюбляю естетичні фотки.</p> 
+    <IMG SRC="4.jpg" ALT=""height="200" width="300"border="5">
+        <p>Фотка з випускного. Карпати.</p>
+        
+    
+<p align="right"> <em><b> Студент групи 102-ТК Олексенко І.Р.</b></em></p>
+ </body>
+ </html>
